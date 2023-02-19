@@ -1,0 +1,30 @@
+/* @import '~antd/dist/antd.css'; */
+
+.header {
+  height: 56px;
+  padding: 0;
+  background-color:#2f484f;
+  color: #ffffff;
+  font-size: larger;
+  font-weight: 700;
+  /* position: absolute; */
+  width: 98vw;
+}
+
+.site-layout-background {
+  background-color: rgba(255, 255, 255);
+}
+
+.spin-fullscreen {
+  position: absolute;
+  inset: 50%;
+}
+
+.ant-layout {
+  background-color: white;
+}
+
+div.appname {
+  margin-top: 1vh;
+  margin-left: 1vw;
+}
