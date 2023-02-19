@@ -1,0 +1,18 @@
+div.root {
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+.ant-spin-dot-item {
+    background-color: red;
+  }
+  
+@font-face {
+    font-family: 'Octosquares';
+    src: local('TT Octosquares DemiBold'), local('TT-Octosquares-DemiBold'),
+        url('../fonts/TTOctosquares-DBold.woff2') format('woff2'),
+        url('../fonts/TTOctosquares-DBold.woff') format('woff'),
+        url('../fonts/TTOctosquares-DBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }

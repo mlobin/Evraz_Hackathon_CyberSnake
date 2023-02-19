@@ -1,0 +1,13 @@
+#wrapper {
+    position: relative;
+    background: #2f484f;
+    border: 1px solid #000;
+    box-shadow: 0 22px 35px -16px rgba(0, 0, 0, 0.71);
+    max-width: 850px;
+    margin: 0 auto;
+  }
+  
+  #chart-bar {
+    position: relative;
+    margin-top: -38px;
+  }

@@ -1,0 +1,121 @@
+.background{
+    height: 98vh;
+    width: 98vw;
+    background-image: url("/image/exhauster_detailed.jpg");;
+    background-size: contain;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+}
+
+.ant-card-body{
+    padding: 4px!important; 
+}
+
+.ant-card-head{
+    padding-top: 5px!important; 
+    min-height: 0px!important;
+}
+
+.ant-card{
+    padding-top: 5px!important; 
+}
+
+.background_exhauter_picture{
+    width: 150px;
+    margin: 0px;
+}
+
+.exhauter_card{
+    height: 155px;
+    width: 150px;
+    /* background-color: #2f484f; */
+}
+
+.exhauter_card_ok{
+    color: #ffffff;
+    background-color: #2f484f;
+}
+
+.exhauter_card_warning{
+    color: #ffffff;
+    background-color: #d2691e;
+}
+
+.exhauter_card_alert{
+    color: #ffffff;
+    background-color: #8b0000;
+}
+
+div.first{
+    position: absolute;
+    left: 1367px;
+    top: 685px;
+}
+
+div.second{
+    position: absolute;
+    left: 960px;
+    top: 685px;
+}
+
+div.third{
+    position: absolute;
+    left: 775px;
+    top: 348px;
+}
+
+div.forth{
+    position: absolute;
+    left: 575px;
+    top: 348px;
+}
+
+div.fifth{
+    position: absolute;
+    left: 777px;
+    top: 690px;
+}
+
+div.sixth{
+    position: absolute;
+    left: 575px;
+    top: 690px;
+}
+
+div.seventh{
+    position: absolute;
+    left: 575px;
+    top: 785px;
+}
+
+div.eighth{
+    position: absolute;
+    left: 20px;
+    top: 671px;
+}
+
+div.ninth{
+    position: absolute;
+    left: 20px;
+}
+
+div.main_engine{
+    position: absolute;
+    left: 1098px;
+    top: 412px;
+}
+
+div.oil_level{
+    position: absolute;
+    left: 880px;
+    top: 221px;
+    font-weight: 600;
+}
+
+div.oil_pressure{
+    position: absolute;
+    left: 1455px;
+    top: 352px;
+    font-weight: 600;
+}

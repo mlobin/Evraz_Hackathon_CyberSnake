@@ -1,0 +1,18 @@
+.exhauter_row_all{
+    margin: 1em;
+}
+
+.exhauter_card_ok{
+    color: #ffffff;
+    background-color: #2f484f;
+}
+
+.exhauter_card_warning{
+    color: #ffffff;
+    background-color: #d2691e;
+}
+
+.exhauter_card_alert{
+    color: #ffffff;
+    background-color: #8b0000;
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TT Octosquares';
+    src: local('TT Octosquares DemiBold'), local('TT-Octosquares-DemiBold'),
+        url('TTOctosquares-DBold.woff2') format('woff2'),
+        url('TTOctosquares-DBold.woff') format('woff'),
+        url('TTOctosquares-DBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
